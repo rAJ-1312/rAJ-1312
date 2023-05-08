@@ -63,17 +63,17 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <a href="https://github.com/rAJ-1312/github-readme-stats">
+  <a href="https://github.com/rAJ-1312/">
       <img src="https://github-readme-stats.vercel.app/api?username=rAJ-1312&show_icons=true&rank_icon=github" alt="Raj's Github Stats">
   </a>
   &ensp;
   &ensp;
-  <a href="https://github.com/rAJ-1312/github-readme-stats">
+  <a href="https://github.com/rAJ-1312/">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rAJ-1312&layout=compact" alt="Top Langs">
   </a>
   &ensp;
   &ensp;
-  <a href="https://git.io/streak-stats">
+  <a href="https://github.com/rAJ-1312/">
       <img src="https://streak-stats.demolab.com/?user=rAJ-1312" alt="Raj's Github Stats">
   </a>
 </p>
@@ -87,13 +87,13 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <a href="https://github.com/rAJ-1312/github-readme-stats">
+  <a href="https://github.com/rAJ-1312/">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=rAJ-1312&repo=Chatbot-in-Python-NLTK" alt="Chatbot-in-Python-NLTK">
   </a>
- <a href="https://github.com/rAJ-1312/github-readme-stats">
+ <a href="https://github.com/rAJ-1312/">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=rAJ-1312&repo=Portfolio" alt="Portfolio">
   </a>
- <a href="https://github.com/rAJ-1312/github-readme-stats">
+ <a href="https://github.com/rAJ-1312/">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=rAJ-1312&repo=Django-Blog-Application" alt="Django-Blog-Application">
   </a>
 </p>
