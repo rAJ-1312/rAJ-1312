@@ -1,4 +1,4 @@
-## Hi there, it's me rAJ 💀 
+# Hi there, it's me rAJ 💀 
 
 I'm a final year CSE student. In my undergrad, I explored many technologies, including 
 frontend and Backend Development. I've also worked on small scale projects on my own.
@@ -101,6 +101,8 @@ Here are some ideas to get you started:
  
  ### Coding Profiles
  ---
+ 
+ <p align="center" >I love solving competetive programming problems. I have solved over 700+ cp problems and 500+ dsa problems. </p>
 
 <p align="center">
     <a href="https://auth.geeksforgeeks.org/user/___r___a___j/">
