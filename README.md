@@ -12,10 +12,10 @@ You can hire me for following roles
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on small scale personal projects.
-- 🌱 I’m currently learning Go, Django.
-- 👯 I’m looking to collaborate on any open source projects.
-- 💬 Ask me about &nbsp; <img height="20" width="20" src="https://cdn.simpleicons.org/gnometerminal" />, &nbsp; <img height="20" width="20" src="https://cdn.simpleicons.org/python" /> or any tech related stuffs.
-- 📫 How to reach me: &ensp; [<img height="20" width="20" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/raj-kumar-b09551219/) 
+- 🌱 I’m currently learning  <img height="25" width="30" src="https://cdn.simpleicons.org/go" />, &nbsp; <img height="20" width="20" src="https://cdn.simpleicons.org/django" />.
+- 👯 I’m looking to collaborate on any open source projects <img height="20" width="20" src="https://unpkg.com/simple-icons@v8/icons/opensourceinitiative.svg" />
+- 💬 Ask me about   <img height="20" width="20" src="https://cdn.simpleicons.org/python" /> or any tech related stuffs.
+- 📫 How to reach me:  &nbsp; [<img height="20" width="20" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/raj-kumar-b09551219/) 
 - ⚡ Fun fact: Haven't been fun lately 😈
 
 <br />
