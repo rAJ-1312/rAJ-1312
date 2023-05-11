@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 
 <!-- &ensp; &ensp; [<img src="https://spotify-github-profile.vercel.app/api/view?uid=t7yrua42ez184xn7vm9cq79ah&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" target=_blank />](https://open.spotify.com/user/t7yrua42ez184xn7vm9cq79ah) -->
 
-<br />
 
 <!---
 
