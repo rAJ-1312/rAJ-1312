@@ -4,9 +4,9 @@ I'm a final year CSE student. In my undergrad, I explored many technologies, inc
 frontend and Backend Development. I've also worked on small scale projects on my own.
 I am open to learning new technologies to get better clarity of what interests me.
 
-You can hire me for following roles
+Interested in following Domains:
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=741B35&vCenter=true&width=250&height=22&lines=Web+Developer;Backend+Developer;Data+analyst;Software+Developer)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=741B35&vCenter=true&width=250&height=22&lines=Python+Development;Web+Development;Backend+Development;Data+analysis;Software+Development)](https://git.io/typing-svg)
 
 
 Here are some ideas to get you started:
