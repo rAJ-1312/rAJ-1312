@@ -9,7 +9,6 @@ Interested in following Domains:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on small scale personal projects.
 - 🌱 I’m currently learning  <img height="25" width="30" src="https://cdn.simpleicons.org/go" />, &nbsp; <img height="20" width="20" src="https://cdn.simpleicons.org/fastapi" />.
 - 👯 I’m looking to collaborate on any open source projects <img height="20" width="20" src="https://unpkg.com/simple-icons@v8/icons/opensourceinitiative.svg" />
 - 💬 Ask me about   <img height="20" width="20" src="https://cdn.simpleicons.org/python" /> or any tech related stuffs.
@@ -57,29 +56,6 @@ Here are some ideas to get you started:
 
 > **Tools** : &nbsp; <img height="24" width="24" src="https://cdn.simpleicons.org/gnometerminal" /> &nbsp; ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) &nbsp; ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) &nbsp; ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp; ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) &nbsp; ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) &nbsp; ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) &nbsp; ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) &nbsp; ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) &nbsp; 
 >![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-<br />
-
-
-### Stats
----
-
-<p align="center">
-  <a href="https://github.com/rAJ-1312/">
-      <img src="https://github-readme-stats.vercel.app/api?username=rAJ-1312&show_icons=true&rank_icon=github" alt="Raj's Github Stats">
-  </a>
-  &ensp;
-  &ensp;
-  <a href="https://github.com/rAJ-1312/">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rAJ-1312&layout=compact" alt="Top Langs">
-  </a>
-  &ensp;
-  &ensp;
-  <a href="https://github.com/rAJ-1312/">
-      <img src="https://streak-stats.demolab.com/?user=rAJ-1312" alt="Raj's Github Stats">
-  </a>
-</p>
-
 
 <br />
 
